@@ -11,7 +11,7 @@ We choose python to code this project and use TensorFlow to quickly integrate  a
 
 1) we catch a picture of our chessborad and apply a HSV filter.
 
-![HSV](./img/HSV.png)
+![HSV](./img/hsv.png)
 
 2) with the HSV picture we determine the mask to find the corners of the chessboard.
 
@@ -39,4 +39,3 @@ We choose python to code this project and use TensorFlow to quickly integrate  a
 
 ![result2](./img/result2.png)
 
-thx to ghali 
