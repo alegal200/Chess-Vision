@@ -39,3 +39,4 @@ We choose python to code this project and use TensorFlow to quickly integrate  a
 
 ![result2](./img/result2.png)
 
+thx to ghali 
